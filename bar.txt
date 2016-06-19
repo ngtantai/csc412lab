@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 203B-F82E
+
+ Directory of C:\Users\Tai\Downloads\CSC 648
+
+06/19/2016  11:18 AM    <DIR>          .
+06/19/2016  11:18 AM    <DIR>          ..
+06/19/2016  11:18 AM                 0 bar.txt
+06/19/2016  11:18 AM               350 foo.txt
+               2 File(s)            350 bytes
+               2 Dir(s)  673,169,178,624 bytes free
